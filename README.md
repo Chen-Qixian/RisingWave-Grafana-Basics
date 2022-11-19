@@ -1,6 +1,6 @@
-# Sample application for tutorials
+# Grafana Basics Prototype
 
-This repository contains the environment for completing the tutorials at [grafana.com/tutorials](https://grafana.com/tutorials).
+This repository contains the environment for all what is needed for grafana application startup prototype, refering from: [grafana.com/tutorials](https://grafana.com/tutorials).
 
 ## Prequisites
 
